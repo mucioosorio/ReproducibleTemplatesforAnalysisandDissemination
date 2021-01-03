@@ -7,3 +7,5 @@ Aquí estarán las notas del curso Reproducible Templates for Analysis and Disse
 https://www.coursera.org/learn/reproducible-templates-analysis/home/welcome
 
 Mucio OSorio S.
+
+Ahora estoy agregando una linea en github y la enviare a mi pc
