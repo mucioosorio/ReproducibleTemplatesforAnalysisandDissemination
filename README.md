@@ -9,3 +9,5 @@ https://www.coursera.org/learn/reproducible-templates-analysis/home/welcome
 Mucio OSorio S.
 
 Ahora estoy agregando una linea en github y la enviare a mi pc
+
+Esta linea mas la enviare por git bash
