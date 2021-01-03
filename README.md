@@ -11,3 +11,5 @@ Mucio OSorio S.
 Ahora estoy agregando una linea en github y la enviare a mi pc
 
 Esta linea mas la enviare por git bash
+
+otra linea más que se enviará de github----a pc local pero usare git bash----- git pull
